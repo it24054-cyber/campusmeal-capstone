@@ -7,7 +7,7 @@
 |---|---|
 | **Course** | Software Engineering / Java Programming |
 | **Institution** | Mawlana Bhashani Science and Technology University (MBSTU) |
-| **Student** | _Your Name_, _Your ID_ |
+| **Student** | MOHAMMED AZRAF HOSSAIN AFSIN, IT24054 |
 | **Submission date** | 27 October 2026 |
 | **Process model** | Iterative and Incremental Model |
 
